@@ -1,0 +1,64 @@
+*{
+margin:0%;
+padding: 0%;
+box-sizing: border-box;
+}
+
+
+body{
+    background-image: url(fondo.jpg);
+    background-position: 100%;
+
+}
+header{
+    background-color:black;
+    margin: 2rem;
+    border-top: 1rem;
+    padding top: 0.5;
+    color:darkturquoise;
+    font-size: 65px;
+    font-style: italic;
+    }
+    p{
+        color: darkgoldenrod;
+        font-size: 25px;
+        font-family: cursive;
+        font-style: italic;
+    }
+    details{
+        font-style: italic;
+        color:darkgoldenrod;
+    }
+    summary{
+color:gold;
+    }
+    aside{
+        color: white;
+        font-size: 2rem;
+        margin-left: 500px;
+        background-color:transparent; border-color: aqua;
+        padding: 0% auto;
+        font-family:cursive;
+        
+
+    }
+    div{
+        padding: 1rem;
+        margin: 10%;
+        border: 20%; border-color: gold;
+        text-align: center;
+    
+    }
+    table{
+    border: 2rem;
+    font-size: 2rem;
+    color: white;
+    font-family: fantasy;
+
+
+    }
+    footer{
+        color: cornflowerblue;
+        font-size:3rem;
+
+    }
